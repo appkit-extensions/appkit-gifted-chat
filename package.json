@@ -1,0 +1,32 @@
+{
+  "name": "appkit-gifted-chat",
+  "version": "1.0.1",
+  "description": "React Native Gifted Chat library for Appkit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appkit-extensions/appkit-gifted-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appkit-extensions/appkit-gifted-chat/issues"
+  },
+  "homepage": "https://github.com/appkit-extensions/appkit-gifted-chat#readme",
+  "engines": {
+    "appkit": "^1.0.0"
+  },
+  "appkit": {
+    "components": [
+      {
+        "name": "GiftedChat",
+        "script": "index.js"
+      }
+    ]
+  },
+  "dependencies": {
+    "react-native-gifted-chat": "^0.4.3"
+  }
+}
