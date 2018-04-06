@@ -22,7 +22,7 @@
     "components": [
       {
         "name": "GiftedChat",
-        "script": "index.js"
+        "script": "GiftedChat.js"
       }
     ]
   },
