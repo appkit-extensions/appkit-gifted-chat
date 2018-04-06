@@ -1,7 +1,7 @@
 {
   "name": "appkit-gifted-chat",
-  "version": "1.0.1",
-  "description": "React Native Gifted Chat library for Appkit",
+  "version": "1.0.2",
+  "description": "React Native Gifted Chat component for Appkit",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +27,6 @@
     ]
   },
   "dependencies": {
-    "react-native-gifted-chat": "^0.4.3"
+    "@appkit-shared/react-native-gifted-chat": "github:appkit-shared/react-native-gifted-chat"
   }
 }
